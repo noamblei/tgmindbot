@@ -1,0 +1,14 @@
+# Python
+*.pyc
+__pycache__/
+
+# Environment
+.env
+
+# Pygame
+*.log
+
+# Others
+.idea/
+.vscode/
+.DS_Store
